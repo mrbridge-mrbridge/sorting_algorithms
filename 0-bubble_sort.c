@@ -1,5 +1,3 @@
-#include <stdio.h>
-#include <stdlib.h>
 #include "sort.h"
 /**
  * bubble_sort - sorts in buble sort algorithm
