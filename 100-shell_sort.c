@@ -6,7 +6,7 @@
  * @array: array to sort
  * @size: size of the array
  *
- * Return: Nothing
+ * Return: void
  */
 
 void shell_sort(int *array, size_t size)
