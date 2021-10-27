@@ -7,7 +7,6 @@
  * @size: array size
  *
  * Return: Nothing
- *
  */
 
 void selection_sort(int *array, size_t size)
@@ -17,7 +16,6 @@ void selection_sort(int *array, size_t size)
 
 	if (size < 2 || array == NULL)
 		return;
-
 
 	for (i = 0; i < size - 1; i++)
 	{
